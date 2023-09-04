@@ -3,7 +3,7 @@
 from random import randint
 board = []
 sayac = 0
-puan = 250
+puan = 300
 
 for i in range(5):
     board.append(["0"]*5)
