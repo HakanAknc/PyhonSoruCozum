@@ -1,0 +1,3 @@
+# PyhonSoruCozum
+
+ # -- Örnek python soruları
