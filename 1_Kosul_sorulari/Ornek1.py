@@ -12,7 +12,7 @@ print("Not ortalamaniz : ",ortalama)
 if (final >= 50):
     if ortalama > 85 and final > 50:
         print("Harf Notunuz AA")
-    elif ortalama > 75 and  ortalama< 50:
+    elif ortalama > 75 and  ortalama< 85:
         print("Harf Notunuz BA")
     elif ortalama >= 70 and ortalama < 75:
         print("Harf Notunuz BB")
